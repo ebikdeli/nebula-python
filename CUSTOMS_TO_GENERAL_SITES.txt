@@ -52,4 +52,4 @@ kookhamrah.com          .ypi-g-nl
 
 moboplaz.ir             .col-span-2.pt-4    .text-xl.font-bold
 
-gooshistoke.ir
+gooshistoke.ir          
