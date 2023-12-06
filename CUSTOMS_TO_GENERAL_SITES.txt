@@ -1,0 +1,55 @@
+amitis-group.com        .summary-inner
+
+sazkala.com             .price-wrp
+
+kalatik.com             .buy-box-cont
+
+googlekala.com          .summary-inner
+
+taavrizh.com            .column-cart
+
+mobile140.com           .priceshow
+
+jijimoo.com             .product-info-box
+
+kalaoma.com             .product-add-to-cart-section
+
+19kala.com              #product
+
+digido.ir               #SecBoxProductPage  .AddToCartAT
+
+lipak.com               .card-invoice-summary-inner
+
+allsamsung.ir           .product-shop   .add-to-cart
+
+bartardigital.com       .d-none.d-xl-block.col-xl-3.mt-3    .swiper-slide.swiper-slide-active
+
+tank.ir                 .d-flex.justify-content-between
+
+plazadigital.ir         .sticky-cart
+
+khaneh-mobile.ir        .content_product_detail
+
+ekalato.com             .overview
+
+saymandigital.com       .product-information
+
+whaletel.com            .column-two.sticky
+
+ehadish.com             .form-pro-option    .btn.btn-addtobasket
+
+sadraland.com           .product-actions    .product-available
+
+dornatell.ir            .entry-summary      .product_title
+
+masterkala.com          .option-select-card.pa-2.container-bg-color.v-card.v-card--flat
+
+chandsoo.com            .price-con
+
+mobobnd.ir              .summary-inner
+
+kookhamrah.com          .ypi-g-nl
+
+moboplaz.ir             .col-span-2.pt-4    .text-xl.font-bold
+
+gooshistoke.ir
